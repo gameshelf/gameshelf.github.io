@@ -1,1 +1,11 @@
-Add an `?userId=[your bgg user id]` param for the first time loading, so the site knows which user to load for.
+# STATIC
+
+This directory contains your static files.
+Each file inside this directory is mapped to /.
+
+Example: /static/robots.txt is mapped as /robots.txt.
+
+More information about the usage of this directory in the documentation:
+https://nuxtjs.org/guide/assets#static
+
+**This directory is not required, you can delete it if you don't want to use it.**
