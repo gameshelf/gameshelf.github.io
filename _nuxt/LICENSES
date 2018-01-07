@@ -13,7 +13,7 @@
 /*!
  * Determine if an object is a Buffer
  *
- * @author   Feross Aboukhadijeh <feross@feross.org> <http://feross.org>
+ * @author   Feross Aboukhadijeh <https://feross.org>
  * @license  MIT
  */
 
@@ -22,12 +22,12 @@
  * @copyright Copyright (c) 2014 Yehuda Katz, Tom Dale, Stefan Penner and contributors (Conversion to ES6 API by Jake Archibald)
  * @license   Licensed under MIT license
  *            See https://raw.githubusercontent.com/stefanpenner/es6-promise/master/LICENSE
- * @version   4.1.1
+ * @version   v4.2.2+97478eb6
  */
 
 /**
- * vue-meta v1.2.0
- * (c) 2017 Declan de Wet
+ * vue-meta v1.3.1
+ * (c) 2017 Declan de Wet & Atinux
  * @license MIT
  */
 
