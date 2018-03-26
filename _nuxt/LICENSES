@@ -44,8 +44,8 @@
  */
 
 /*!
- * Vue.js v2.5.13
- * (c) 2014-2017 Evan You
+ * Vue.js v2.5.16
+ * (c) 2014-2018 Evan You
  * Released under the MIT License.
  */
 
@@ -70,7 +70,7 @@
 
 /**!
  * @fileOverview Kickass library to create and place poppers near their reference elements.
- * @version 1.12.9
+ * @version 1.14.1
  * @license
  * Copyright (c) 2016 Federico Zivolo and contributors
  *
@@ -98,11 +98,11 @@
  * @copyright Copyright (c) 2014 Yehuda Katz, Tom Dale, Stefan Penner and contributors (Conversion to ES6 API by Jake Archibald)
  * @license   Licensed under MIT license
  *            See https://raw.githubusercontent.com/stefanpenner/es6-promise/master/LICENSE
- * @version   v4.2.2+97478eb6
+ * @version   v4.2.4+314e4831
  */
 
 /**
- * vue-meta v1.4.2
+ * vue-meta v1.5.0
  * (c) 2018 Declan de Wet & Atinux
  * @license MIT
  */
